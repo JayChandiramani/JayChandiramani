@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;IoT+%26+Cybersecurity+Researcher;Embedded+QA+Engineer+at+GE+Appliances;IoT+Innovator;Raspberry+Pi+Systems+Architect&center=true&width=700&height=50&font=Fira%20Code&pause=1000&size=24" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;IoT+%26+Cybersecurity+Researcher;Embedded+QA+Engineer+at+GE+Appliances;IoT+Innovator;Raspberry+Pi+Systems+Architect&center=true&width=700&height=50&font=Fira%20Code&pause=750&size=24" />
 </p>
 
 <p align="center">
