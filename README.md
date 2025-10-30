@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!+I'm+Jay!&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00BFFF&text=Hello!+I'm+Jay!&height=120&section=header&fontColor=ffffff&fontAlignY=40"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,13 @@
 
 ### 👨🏽‍💻 Featured Projects
 
-WIP
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| **Raspberry Pi Access Control System** | IEEE-published project combining facial recognition and OTP-based authentication to create a secure, cost-effective 2FA system. Presented at IEEE SoutheastCon 2025. | Python, OpenCV, SQLite, PyOTP |
+| **No-Kill Louisville CRM System** | Designed and implemented a Blazor-based CRM system reducing manual recordkeeping by 40% for a local nonprofit. | C#, Blazor, MudBlazor, SQLite, EF Core |
+| **Quark Chat Application** | Built a Kotlin + Firebase chat app with 95% uptime; explored post-quantum encryption integration. | Kotlin, Firebase, Android Studio |
+| **Flintstone Forensics Toolkit** | CLI toolkit to create, analyze, and explore custom disk images for digital forensics labs. | Python, File I/O, CLI |
+| **(WIP)** | Cannot disclose this information yet. | WIP |
 
 ---
 
@@ -94,13 +100,17 @@ WIP
 
 ---
 
-### 📊 GitHub Snake Animation
+### 📊 GitHub
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayChandiramani/JayChandiramani/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayChandiramani/JayChandiramani/output/github-contribution-grid-snake-light.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/JayChandiramani/JayChandiramani/output/github-contribution-grid-snake-light.svg" />
-</picture>
+<p align="center">
+  <a href="https://github.com/JayChandiramani?tab=overview&from=2025-01-01&to=2025-12-31">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayChandiramani/JayChandiramani/output/github-contribution-grid-snake-dark.svg?sanitize=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayChandiramani/JayChandiramani/output/github-contribution-grid-snake-light.svg?sanitize=true" />
+      <img alt="github contribution snake" src="https://raw.githubusercontent.com/JayChandiramani/JayChandiramani/output/github-contribution-grid-snake-light.svg?sanitize=true" width="90%" />
+    </picture>
+  </a>
+</p>
 
 ---
 
@@ -115,3 +125,7 @@ WIP
 ---
 
 <p align="center"><i>Thanks for visiting! Explore my repositories and feel free to connect </i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00BFFF&height=100&section=footer"/>
+</p>
